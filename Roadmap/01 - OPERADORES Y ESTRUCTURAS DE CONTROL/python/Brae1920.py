@@ -97,3 +97,9 @@ b = False
 print("a y b:", a and b)  
 print("a o b:", a or b)  
 print("Negación de a:", not a)
+
+
+
+
+
+
